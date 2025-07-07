@@ -1,0 +1,33 @@
+# Data handling
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+shap
+
+# Machine Learning
+scikit-learn
+boruta
+
+# Hyperparameter tuning
+scipy
+
+# Optional: Intel accelerated scikit-learn (commented)
+# scikit-learn-intelex
+
+# Jupyter Notebook support (optional)
+notebook
+jupyterlab
+
+# Dev & Utils
+tqdm
+black
+pylint
+
+#pip install scikit-learn-intelex
+#pip install xgboost
+#pip install imbalanced-learn
+#pip install ydata-profiling
